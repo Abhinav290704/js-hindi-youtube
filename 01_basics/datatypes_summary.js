@@ -23,3 +23,16 @@ there is no changes in original data
 
 */
 
+/* *****************************************************
+
+We have two types of memory: Stack and heap
+
+stack memory used in primitive data types
+=> It means we get a copy, jo bhi changes krenge vo copy mai change hoga
+
+heap memory used in non-primitive data types
+=> Idhar jo  bhi changes krenge vo original value mai change hoga
+
+
+
+*/
